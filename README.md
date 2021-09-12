@@ -1,5 +1,5 @@
 ## Hi there 👋 i remain my humble self ADAMU MUHAMMAD MUHAMMAD
-
+![images](https://github.com/AdamsGeeky/AdamsGeeky/blob/main/images/Adams.png)
 <!--
 **AdamsGeeky/AdamsGeeky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
