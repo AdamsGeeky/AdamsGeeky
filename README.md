@@ -22,4 +22,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/AdamsGeeky/count.svg" />
+</p>
+
 <!-- [Geek Innovative tech](https://www.youtube.com/watch?v=dDiVlC7oRrI&list=PL1tNMhAqE_3bom_21T-O3o8r9D2v4X_gr&index=2) -->
