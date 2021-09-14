@@ -4,7 +4,7 @@
 
 <p align='left'><img width="400px" style="border-style:solid" src="https://github-readme-streak-stats.herokuapp.com/?user=AdamsGeeky&theme=radical" alt="Adamsgeeky Github Stats" />
   </p>
-  <p align='right'>
+  <p align='right' style="position: relative">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=AdamsGeeky&count_private=true&theme=radical"/>
 </p>
 <!--
