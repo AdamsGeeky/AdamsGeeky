@@ -2,9 +2,9 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=Adamsgeeky&theme=react-dark&hide_border=true&area=true)
 <div style="display: flex;">
-<p ><img width="400px" style="border-style:solid" src="https://github-readme-streak-stats.herokuapp.com/?user=AdamsGeeky&theme=radical" alt="Adamsgeeky Github Stats" />
+<p syle="flex: 1"><img width="400px" style="border-style:solid" src="https://github-readme-streak-stats.herokuapp.com/?user=AdamsGeeky&theme=radical" alt="Adamsgeeky Github Stats" />
   </p>
-  <p>
+  <p syle="flex: 1">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=AdamsGeeky&count_private=true&theme=radical"/>
 </p>
 </div>
