@@ -2,13 +2,13 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=Adamsgeeky&theme=react-dark&hide_border=true&area=true)
 <div>
-<p><img width="100%" style="border-style:solid" src="https://github-readme-streak-stats.herokuapp.com/?user=AdamsGeeky&theme=radical" alt="Adamsgeeky Github Stats" />
+<p><img width="30%" style="border-style:solid" src="https://github-readme-streak-stats.herokuapp.com/?user=AdamsGeeky&theme=radical" alt="Adamsgeeky Github Stats" />
   </p>
   <p>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=AdamsGeeky&count_private=true&theme=radical"/>
+  <img width="30%" src="https://github-readme-stats.vercel.app/api?username=AdamsGeeky&count_private=true&theme=radical"/>
 </p>
 <p>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AdamsGeeky&theme=radical&hide=jupyter%20notebook&layout=compact&langs_count=8"></p>
+  <img  width="30%"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AdamsGeeky&theme=radical&hide=jupyter%20notebook&layout=compact&langs_count=8"></p>
 </div>
 <!--
 **AdamsGeeky/AdamsGeeky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
