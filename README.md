@@ -3,6 +3,12 @@
 ![](https://activity-graph.herokuapp.com/graph?username=Adamsgeeky&theme=react-dark&hide_border=true&area=true)
 
 ![images <](https://github.com/AdamsGeeky/AdamsGeeky/blob/main/images/Adams.png)
+
+<p align='center'><img width="450px" style="border-style:solid" src="https://github-readme-streak-stats.herokuapp.com/?user=AdamsGeeky&theme=radical" alt="Adamsgeeky Github Stats" />
+  </p>
+  <p align='center'>
+  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=AdamsGeeky&count_private=true&theme=radical"/>
+</p>
 <!--
 **AdamsGeeky/AdamsGeeky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
