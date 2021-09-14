@@ -1,13 +1,13 @@
 <h1 align="center">Hey There!<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35"> It's ADAMU MUHAMMAD MUHAMMAD here :) </h1>
 
 ![](https://activity-graph.herokuapp.com/graph?username=Adamsgeeky&theme=react-dark&hide_border=true&area=true)
-<div style="display: flex;">
-<p syle="flex: 1"><img width="400px" style="border-style:solid" src="https://github-readme-streak-stats.herokuapp.com/?user=AdamsGeeky&theme=radical" alt="Adamsgeeky Github Stats" />
+<div>
+<p><img width="100%" style="border-style:solid" src="https://github-readme-streak-stats.herokuapp.com/?user=AdamsGeeky&theme=radical" alt="Adamsgeeky Github Stats" />
   </p>
-  <p syle="flex: 1">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=AdamsGeeky&count_private=true&theme=radical"/>
+  <p>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=AdamsGeeky&count_private=true&theme=radical"/>
 </p>
-<p syle="flex: 1">
+<p>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AdamsGeeky&theme=radical&hide=jupyter%20notebook&layout=compact&langs_count=8"></p>
 </div>
 <!--
