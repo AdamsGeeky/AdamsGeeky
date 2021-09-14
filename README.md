@@ -1,7 +1,7 @@
 <h1 align="center">Hey There!<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35"> It's ADAMU MUHAMMAD MUHAMMAD here :) </h1>
 <h3 align="center">I'm a passionate Developer from Gombe Nigeria.</h3>
 <br/>
-<br/>
+
 ## 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning **Data structure and Algorithms** 
@@ -14,10 +14,10 @@
 <br/>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AdamsGeeky&theme=radical" alt="Adamsgeeky Github Stats" />
   </p>
-  <p>
+  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AdamsGeeky&count_private=true&theme=radical"/>
 </p>
-<p>
+<p align="center">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamsGeeky&theme=radical&hide=jupyter%20notebook&layout=compact&langs_count=8">
 </p>
 <!--
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="left"> 
+<p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/AdamsGeeky/count.svg" />
 </p>
