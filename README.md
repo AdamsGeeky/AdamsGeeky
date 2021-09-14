@@ -1,4 +1,5 @@
-## Hi there 👋 i remain my humble self ADAMU MUHAMMAD MUHAMMAD
+<h1 align="center">Hey There!<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35"> It's ADAMU MUHAMMAD MUHAMMAD here :) </h1>
+
 ![images <](https://github.com/AdamsGeeky/AdamsGeeky/blob/main/images/Adams.png)
 <!--
 **AdamsGeeky/AdamsGeeky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
