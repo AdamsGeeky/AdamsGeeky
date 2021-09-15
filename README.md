@@ -11,6 +11,8 @@
 - 📫 How to reach me **muhdadamu0008@gmail.com**
 ## Connect with me:
 <p align="left">
+<a href = "https://www.linkedin.com/in/adamu-muhammad-muhammad-13456b190/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+</p>
 <br/>
 <!-- Prepare a container for your calendar. -->
 <script
@@ -35,8 +37,7 @@
 </script>
 <br/>
 
-<a href = "https://www.linkedin.com/in/alpana-nanda-508342192/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-</p>
+
 
 ![](https://activity-graph.herokuapp.com/graph?username=Adamsgeeky&theme=react-dark&hide_border=true&area=true)
 <br/>
