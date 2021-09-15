@@ -9,6 +9,34 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 How to reach me **muhdadamu0008@gmail.com**
+## Connect with me:
+<p align="left">
+<br/>
+<!-- Prepare a container for your calendar. -->
+<script
+  src="https://cdn.rawgit.com/IonicaBizau/github-calendar/gh-pages/dist/github-calendar.min.js"
+>
+</script>
+
+<!-- Optionally, include the theme (if you don't want to struggle to write the CSS) -->
+<link
+  rel="stylesheet"
+  href="https://cdn.rawgit.com/IonicaBizau/github-calendar/gh-pages/dist/github-calendar.css"
+/>
+
+<!-- Prepare a container for your calendar. -->
+<div class="calendar">
+    <!-- Loading stuff -->
+    Loading the data just for you.
+</div>
+
+<script>
+    new GitHubCalendar(".calendar", "your-username");
+</script>
+<br/>
+
+<a href = "https://www.linkedin.com/in/alpana-nanda-508342192/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+</p>
 
 ![](https://activity-graph.herokuapp.com/graph?username=Adamsgeeky&theme=react-dark&hide_border=true&area=true)
 <br/>
