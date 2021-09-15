@@ -33,7 +33,7 @@
 </div>
 
 <script>
-    new GitHubCalendar(".calendar", "your-username");
+    new GitHubCalendar(".calendar", "AdamsGeeky");
 </script>
 <br/>
 
