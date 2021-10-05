@@ -3,7 +3,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Data structure and Algorithms** 
+- 🌱 I’m currently learning
+  -  **Data structure and Algorithms**
+  -  **frondend development**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -27,7 +29,7 @@
 </p>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamsGeeky&theme=radical&hide=jupyter%20notebook&layout=compact&langs_count=8">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamsGeeky&theme=radical&hide=jupyter%20notebook&layout=compact&langs_count=10">
 </p>
 <!--
 **AdamsGeeky/AdamsGeeky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
