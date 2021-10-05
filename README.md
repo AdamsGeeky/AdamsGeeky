@@ -24,7 +24,6 @@
 <a href="https://www.leetcode.com/adamsgeeky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adamsgeeky" height="30" width="40" /></a>
 </p>
 <!-- other stat -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adamsgeeky&label=Profile%20views&color=0e75b6&style=flat" alt="adamsgeeky" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adamsgeeky" alt="adamsgeeky" /></a> </p>
 <!-- end -->
@@ -37,4 +36,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adamsgeeky&show_icons=true&locale=en" alt="adamsgeeky" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adamsgeeky&" alt="adamsgeeky" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adamsgeeky&label=Profile%20views&color=0e75b6&style=flat" alt="adamsgeeky" /></p>
 
