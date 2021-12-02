@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AdamsGeeky](https://github.com/AdamsGeeky)
 
-- 📝 I regularly write articles on [https://geekinnovativetech.blogspot.com/](https://geekinnovativetech.blogspot.com/)
+- 📝 I regularly write articles on [https://geekinnovativetechnology.blogspot.com/](https://geekinnovativetech.blogspot.com/)
 
 ![](https://activity-graph.herokuapp.com/graph?username=Adamsgeeky&theme=react-dark&hide_border=true&area=true)
 <h3 align="left">Connect with me:</h3>
