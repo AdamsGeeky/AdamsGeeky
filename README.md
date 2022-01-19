@@ -1,4 +1,4 @@
-<h1 align="center">Hey There!<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35"> It's ADAMU MUHAMMAD MUHAMMAD  </h1>
+<h1 align="center">Hey There!<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35"> It's ADAMU M. M. aka (Adams Geeky)  </h1>
 <h3 align="center">I'm a passionate programmer from Gombe Nigeria.</h3>
 
 ## 🙋‍♂️ About Me
