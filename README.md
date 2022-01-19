@@ -3,7 +3,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Data structure and Algorithm,front-end,mysql,and php**
+- 🌱 I’m currently learning **Data structure and Algorithm, blockchin**
 
 - 👯 I’m looking to collaborate on **open source project**
 
