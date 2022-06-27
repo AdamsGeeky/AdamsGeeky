@@ -3,7 +3,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Data structure and Algorithm, blockchin**
+- 🌱 I’m currently learning **Data structure and Algorithm**
 
 - 👯 I’m looking to collaborate on **open source project**
 
