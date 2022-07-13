@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **open source project**
 
-- 🤝 I’m looking for help with [Data structure and Algorithm](https://github.com/AdamsGeeky/DSA_with_kunal)
+- 🤝 I’m looking for help with [Data structure and Algorithm](https://github.com/AdamsGeeky/personal_Software_Engineering_journey/tree/main/DSA)
 
 - 👨‍💻 All of my projects are available at [https://github.com/AdamsGeeky](https://github.com/AdamsGeeky)
 
