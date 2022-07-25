@@ -1,5 +1,8 @@
 <h1 align="center">Hey There!<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35"> It's ADAMU M. M. aka (Adams Geeky)  </h1>
-<h3 align="center">I'm a passionate programmer from Gombe Nigeria.</h3>
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;Software+Developer&center=true&width=380&height=45"></a>
+</p>
 
 ## 🙋‍♂️ About Me
 
