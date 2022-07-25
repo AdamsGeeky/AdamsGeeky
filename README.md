@@ -26,10 +26,6 @@
 <a href="https://www.hackerrank.com/muhdadamu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muhdadamu" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/adamsgeeky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adamsgeeky" height="30" width="40" /></a>
 </p>
-<!-- other stat -->
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adamsgeeky" alt="adamsgeeky" /></a> </p>
-<!-- end -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <!--  <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>  -->
