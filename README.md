@@ -8,11 +8,11 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Data structure and Algorithm**
+- 🌱 I’m currently learning **Software Engineering at Alx hobelton School**
 
 - 👯 I’m looking to collaborate on **open source project**
 
-- 🤝 I’m looking for help with [Data structure and Algorithm](https://github.com/AdamsGeeky/personal_Software_Engineering_journey/tree/main/DSA)
+- 🤝 I’m looking for help with [Software Engeneering ](https://github.com/AdamsGeeky/personal_Software_Engineering_journey)
 
 - 👨‍💻 All of my projects are available at [https://github.com/AdamsGeeky](https://github.com/AdamsGeeky)
 
