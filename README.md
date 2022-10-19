@@ -2,6 +2,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=ADAMU+MUHAMMAD+MUHAMMAD;Computer+Science+Student;From+Gombe+State+Nigeria;Software+Engineering+student+@+Alx+hobelton+school&center=true&width=380&height=45"></a>
 </p>
+[![@adamsgeeky's Holopin board](https://holopin.me/adamsgeeky)](https://holopin.io/@adamsgeeky)
 </h1>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
