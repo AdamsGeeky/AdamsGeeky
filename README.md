@@ -20,7 +20,7 @@
 
 - 📝 I regularly write articles on [Geekys Blogs](https://geekinnovativetechnology.blogspot.com/)
 
-<!-- ![](https://activity-graph.herokuapp.com/graph?username=Adamsgeeky&theme=react-dark&hide_border=true&area=true) -->
+![](https://activity-graph.herokuapp.com/graph?username=Adamsgeeky&theme=react-dark&hide_border=true&area=true)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/adamuweb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="adamuweb" height="30" width="40" /></a>
