@@ -4,11 +4,13 @@
 </p>
 </h1>
 
-[![@adamsgeeky's Holopin board](https://holopin.me/adamsgeeky)](https://holopin.io/@adamsgeeky)
+<!-- [![@adamsgeeky's Holopin board](https://holopin.me/adamsgeeky)](https://holopin.io/@adamsgeeky) -->
 
 **The kindest people are not born that way, they are made. They are souls that have experienced much at the hands of life. They are the ones who have dug themselves out of the dark, who have fought to turn every loss into a lesson. The kindest people do not just exist, they choose to soften where circumstance has tried to harden them. They choose to believe in goodness, because they have seen firsthand why compassion is so necessary. They have seen firsthand why tenderness is so important in this world.**
 - Intuitive Tracie
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+<!-- <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p> -->
+
 ## 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning **Software Engineering at Alx hobelton School**
