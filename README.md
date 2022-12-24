@@ -3,8 +3,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=ADAMU+MUHAMMAD+MUHAMMAD;Computer+Science+Student;From+Gombe+State+Nigeria;Software+Engineering+student+@+Alx+hobelton+school&center=true&width=380&height=45"></a>
 </p>
 </h1>
-
+<p align="center">
 ![gitartwork](gitartwork.svg)
+ </p>
 
 <!-- <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p> -->
 
