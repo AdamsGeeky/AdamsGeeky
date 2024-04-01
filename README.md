@@ -1,6 +1,6 @@
 <h1 align="center">Hey There!<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35"> 
  
-<!-- I am a Student with a passion for solving problems and creating innovative solutions. I have a strong background in computer science and have experience working on a variety of projects, including web development, mobile app development, and open source. In my free time, I enjoy learning new technologies, reading, and spending time with my family. I am a hardworking and dedicated individual who is always striving to improve my skills and grow as a professional. -->
+I am a Student with a passion for solving problems and creating innovative solutions. I have a strong background in computer science and have experience working on a variety of projects, including web development, mobile app development, and open source. In my free time, I enjoy learning new technologies, reading, and spending time with my family. I am a hardworking and dedicated individual who is always striving to improve my skills and grow as a professional.
  
   ![gitartwork](gitartwork.svg)
   
