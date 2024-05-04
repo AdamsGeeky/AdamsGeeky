@@ -18,11 +18,11 @@
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>
 
-<a href="https://www.linkedin.com/in/franklinobasy/">
+<a href="https://www.linkedin.com/in/adamu-muhammad-muhammad/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 
-<a href="mailto:franklinobasy@gmail.com">
+<a href="mailto:muhdadamu0008@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
   
