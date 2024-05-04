@@ -37,6 +37,8 @@
 <br>
 My Github Stats
 
+[![committers.top badge](https://user-badge.committers.top/nigeria_public/USERNAME.svg)](https://user-badge.committers.top/nigeria_public/AdamsGeeky)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdamsGeeky&theme=dracula) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdamsGeeky&theme=dracula) 
