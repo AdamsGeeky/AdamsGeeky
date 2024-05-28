@@ -10,7 +10,7 @@
  </p>
 <p align="center">
 <a href="https://github.com/AdamsGeeky">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Software+Engineer+%7C+Devops+Engineer+%7C+Data+Engineer;AI+%7C+Machine+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Software+Engineer+%7C+Devops+Engineer+%7C+Blockchain;+%7C+Machine+Learning" alt="Typing SVG" />
 </a>
 <br/>
   
