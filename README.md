@@ -8,7 +8,7 @@
  
 
  </p>
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/AdamsGeeky">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Software+Engineer+%7C+Devops+Engineer+%7C+Blockchain" alt="Typing SVG" />
 </a>
@@ -31,7 +31,7 @@
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdamsGeeky&theme=aura_dark"></td>
   </tr>
 </table>
-
+ -->
 
 #### WEB FRAMEWORKS
 
